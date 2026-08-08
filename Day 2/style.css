@@ -1,0 +1,16 @@
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+
+h1{
+    background-color: red;
+    text-align: right;
+}
+h2{
+    color: aquamarine;
+}
+h3{
+    color: sandybrown;
+}
